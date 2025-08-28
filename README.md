@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Andy Banh </h1>
 
-<!--
-**AndyyBanh/AndyyBanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 💫
+I am a second year Computer Science student, specializing in full stack developement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to
+- Mastering Node.js + Learning SQL
+- Exploring RAG models and AI Agents
+
+## Connect with me
+<div align="left">
+  <p>
+    <a href="https://www.linkedin.com/in/andy-banh-a643a0278/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    </a>
+  </p>
+  <p>
+    <a href="https://portfolio-delta-one-68.vercel.app/">
+      Portfolio
+    </a>
+  </p>
+</div>
