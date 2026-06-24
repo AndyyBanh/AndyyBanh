@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-- I am a second year Computer Science student @ York University, passionate about building software that benefits others.
+- I am a second year Computer Science student @ York University. I am a backend and distrbuted system enthusiast, who enjoys engineering clean, maintainable, and scalable software that benefits others.
 
 ## 🚀 What I'm Up To
-- 🌱 I’m currently exploring **Machine Learning, and Computer Vision**
+- 🌱 I’m currently exploring System Design and Distributed Systems
 - Expanding my knowledge of backend services with Spring Boot
 - 👨‍💻 All of my projects are available at [Coding Portfolio](https://portfolio-delta-one-68.vercel.app/)
 
